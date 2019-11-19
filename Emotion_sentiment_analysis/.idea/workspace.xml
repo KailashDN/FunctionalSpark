@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f82072de-c6cd-4bff-a591-851e2a7850a2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1TobWftHEKrYB4HBs4JtWeKsv6V" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spark-sentiment-analysis-master/spark-sentiment-analysis-master" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="StartingPoint" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="me.foat.crawler.StartingPoint" />
+      <module name="Emotion_sentiment_analysis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.foat.crawler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartingPoint" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Emotion_sentiment_analysis" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="emotion_sentiment_analysis [file:/C:/Users/kaila/OneDrive/Desktop/Big%20Data%20Using%20Scala/SCALA-Project/Emotion_sentiment_analysis/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Emotion_sentiment_analysis-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3148260002960" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1335008624" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3724303870" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../A3_Kailash/assignment-movie-database" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../A5-Kailash/assignment-functional-composition" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../A6-Kailash/assignment-web-crawler" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Assignment 1/assignment-helloworld" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Assignment 2/assignment-lazy" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Assignment_3/assignment-random-state" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-quickstart-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../CSYE7200-master/CSYE7200-master/assignment-helloworld" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../CSYE7200-master/assignment-web-crawler" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../CSYE7200/assignment-movie-database" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../CSYE7200/lab-99" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../CSYE7200_OLD/assignment-web-crawler" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f82072de-c6cd-4bff-a591-851e2a7850a2" name="Default Changelist" comment="" />
+      <created>1574129428249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574129428249</updated>
+    </task>
+    <servers />
+  </component>
+</project>
