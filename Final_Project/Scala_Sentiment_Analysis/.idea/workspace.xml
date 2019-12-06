@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02731319-5a6c-4f3c-862a-2d611169ecbc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UVJ8WdFghjEIR6PtG8Dv7zVmXI" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/test/sentiments" />
+      <recent name="$PROJECT_DIR$/src/main/test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Model">
+    <configuration name="Model" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Model" />
+      <module name="Scala_Sentiment_Analysis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Scala_Sentiment_Analysis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in scala-sentiment-analysis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Scala_Sentiment_Analysis" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Model" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="JUnit.All in scala-sentiment-analysis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="scala-sentiment-analysis" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="scala_sentiment_analysis [file:/Users/abhipatodi/Desktop/NorthEastern%20Subjects/Big%20Data%20Using%20Scala/Final_Project/Scala_Sentiment_Analysis/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="scala-sentiment-analysis-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="3312587607" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="467715934" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="3635407264" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../CSYE7200/assignment-functional-composition" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CSYE7200/assignment-helloworld" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CSYE7200/assignment-lazy" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CSYE7200/assignment-movie-database" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CSYE7200/assignment-random-state" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CSYE7200/assignment-web-crawler" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../CSYE7200/lab-99" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../CSYE7200-Big-Data-System-Engineering-Using-Scala-Assignments-master/Crawler" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../CSYE7200_FinalProject_Team2_Spring2017-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Final_Project_Scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../hll-algorithm-sample-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../review_sentiment_analysis-master/Analyzer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-sentiment-analysis-master" value="PREVIEW" />
+        <entry key="$APPLICATION_CONFIG_DIR$/assigment-helloworld" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02731319-5a6c-4f3c-862a-2d611169ecbc" name="Default Changelist" comment="" />
+      <created>1575435669757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575435669757</updated>
+    </task>
+    <servers />
+  </component>
+</project>

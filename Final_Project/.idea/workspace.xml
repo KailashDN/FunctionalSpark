@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e815785-e01d-4220-86fb-d8c74e545d6d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UD4bW2GyUQvhLRLxobmxaPgu1w" />
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Scala" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunSent" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="RunSent" />
+      <module name="sentiment_analysis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunSent" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="sentiment_analysis" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="final_project [file:/Users/abhipatodi/Desktop/NorthEastern%20Subjects/Big%20Data%20Using%20Scala/Final_Project/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="sentiment_analysis-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3126517444469" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1558367651" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../CSYE7200/assignment-functional-composition" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../CSYE7200/assignment-helloworld" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../CSYE7200/assignment-lazy" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../CSYE7200/assignment-movie-database" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../CSYE7200/assignment-random-state" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../CSYE7200/assignment-web-crawler" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../CSYE7200/lab-99" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/CSYE7200-Big-Data-System-Engineering-Using-Scala-Assignments-master/Crawler" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/CSYE7200_FinalProject_Team2_Spring2017-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/hll-algorithm-sample-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/review_sentiment_analysis-master/Analyzer" value="PREVIEW" />
+        <entry key="$APPLICATION_CONFIG_DIR$/assigment-helloworld" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e815785-e01d-4220-86fb-d8c74e545d6d" name="Default Changelist" comment="" />
+      <created>1574877903047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574877903047</updated>
+    </task>
+    <servers />
+  </component>
+</project>
