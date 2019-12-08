@@ -41,17 +41,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Model">
-    <configuration name="Model" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Model" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Model" />
       <module name="Scala_Sentiment_Analysis" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
+    <configuration name="Test" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="Scala_Sentiment_Analysis" />
+      <module name="scala-sentiment-analysis" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -66,8 +66,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Model" />
-        <item itemvalue="Application.Test" />
         <item itemvalue="JUnit.All in scala-sentiment-analysis" />
       </list>
     </recent_temporary>
@@ -99,6 +97,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="4640848962000" />
         <entry key="$PROJECT_DIR$/build.sbt" value="3312587607" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="467715934" />
         <entry key="$PROJECT_DIR$/project/plugins.sbt" value="3635407264" />
