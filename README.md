@@ -6,9 +6,8 @@ This is the CSYE7200 FinalProject for Team7 Fall 2019
 
 ## Team Members
 
-Abhi Patodi:  <patodi.a@husky.neu.edu>
-
 Kailash Nadkar: <nadkar.k@husky.neu.edu>
+Abhi Patodi:  <patodi.a@husky.neu.edu>
 
 
 ## Methodology
